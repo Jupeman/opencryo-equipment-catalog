@@ -1216,7 +1216,8 @@
       "manufacturerInput": "IC Biomedical, LLC",
       "model": "25LD",
       "categories": [
-        "dewar_static_large"
+        "dewar_static_large",
+        "dewar_static_small"
       ],
       "specs": {
         "ln2_capacity_l": 25,
@@ -1235,7 +1236,7 @@
       "catalogVersion": "2025",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "LN2 liquid dewar compatible with Liquid Withdrawal Device (LWD) for pressure transfers up to 8 L/min at 7.25 psig."
+      "notes": "LN2 liquid dewar compatible with Liquid Withdrawal Device (LWD) for pressure transfers up to 8 L/min at 7.25 psig.\nLiquid Dewar 25 liters. Designed for LN2 storage and transfer to cryo gun canisters used in cryosurgical procedures. Compatible with LWD (D050-8C03) and Roller Base (R018-8C00). No evaporation rate or hold time data published in this document."
     },
     {
       "manufacturer": "IC Biomedical",
@@ -1268,7 +1269,8 @@
       "manufacturerInput": "IC Biomedical, LLC",
       "model": "35LD",
       "categories": [
-        "dewar_static_large"
+        "dewar_static_large",
+        "dewar_static_small"
       ],
       "specs": {
         "ln2_capacity_l": 35,
@@ -1287,14 +1289,15 @@
       "catalogVersion": "2025",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "LN2 liquid dewar compatible with Liquid Withdrawal Device (LWD) for pressure transfers up to 8 L/min at 7.25 psig."
+      "notes": "LN2 liquid dewar compatible with Liquid Withdrawal Device (LWD) for pressure transfers up to 8 L/min at 7.25 psig.\nLiquid Dewar 35 liters. Designed for LN2 storage and transfer to cryo gun canisters used in cryosurgical procedures. Compatible with LWD (D050-8C03) and Roller Base (R033-8C00). No evaporation rate or hold time data published in this document."
     },
     {
       "manufacturer": "IC Biomedical",
       "manufacturerInput": "IC Biomedical, LLC",
       "model": "50LD",
       "categories": [
-        "dewar_static_large"
+        "dewar_static_large",
+        "dewar_static_small"
       ],
       "specs": {
         "ln2_capacity_l": 50,
@@ -1313,7 +1316,7 @@
       "catalogVersion": "2025",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "LN2 liquid dewar compatible with Liquid Withdrawal Device (LWD) for pressure transfers up to 8 L/min at 7.25 psig."
+      "notes": "LN2 liquid dewar compatible with Liquid Withdrawal Device (LWD) for pressure transfers up to 8 L/min at 7.25 psig.\nLiquid Dewar 50 liters. Designed for LN2 storage and transfer to cryo gun canisters used in cryosurgical procedures. Compatible with LWD (D050-8C03) and Roller Base (R033-8C00). No evaporation rate or hold time data published in this document."
     },
     {
       "manufacturer": "IC Biomedical",
@@ -1324,8 +1327,8 @@
       ],
       "specs": {
         "ln2_capacity_l": 3.7,
-        "static_evaporation_rate_l_per_day": 0.2,
         "vapor_hold_time_days": 18,
+        "static_evaporation_rate_l_per_day": 0.2,
         "neck_opening_mm": 69.9,
         "outer_diameter_mm": 222.3,
         "overall_height_mm": 472.4,
@@ -1397,7 +1400,7 @@
       "catalogVersion": "2023",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Vapor (dry) shipper. IATA compliant. Advanced Concept Adsorbent for faster charging. Lockable lid. Static hold time from spec sheet used as vapor_hold_time_days. Consistency check: 3.7 L / 0.2 L/day = 18.5 days ≈ 18 days stated. ✓"
+      "notes": "Vapor (dry) shipper. IATA compliant. Advanced Concept Adsorbent for faster charging. Lockable lid. Static hold time from spec sheet used as vapor_hold_time_days. Consistency check: 3.7 L / 0.2 L/day = 18.5 days ≈ 18 days stated. ✓\nVapor (dry) shipper. Static hold time listed as 18 days; cross-check: 3.7 L / 0.2 L/day = 18.5 days — consistent. Complies with IATA regulations for open cryogenic receptacles. Lockable lid."
     },
     {
       "manufacturer": "IC Biomedical",
@@ -1408,8 +1411,8 @@
       ],
       "specs": {
         "ln2_capacity_l": 3.7,
-        "static_evaporation_rate_l_per_day": 0.23,
         "vapor_hold_time_days": 16,
+        "static_evaporation_rate_l_per_day": 0.23,
         "neck_opening_mm": 90.9,
         "outer_diameter_mm": 233.7,
         "overall_height_mm": 492.7,
@@ -1481,7 +1484,7 @@
       "catalogVersion": "2023",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Vapor (dry) shipper. IATA compliant. Advanced Concept Adsorbent for faster charging. Lockable lid. Static hold time from spec sheet used as vapor_hold_time_days. Consistency check: 3.7 L / 0.23 L/day = 16.1 days ≈ 16 days stated. ✓"
+      "notes": "Vapor (dry) shipper. IATA compliant. Advanced Concept Adsorbent for faster charging. Lockable lid. Static hold time from spec sheet used as vapor_hold_time_days. Consistency check: 3.7 L / 0.23 L/day = 16.1 days ≈ 16 days stated. ✓\nVapor (dry) shipper. Static hold time listed as 16 days; cross-check: 3.7 L / 0.23 L/day ≈ 16.1 days — consistent. Complies with IATA regulations for open cryogenic receptacles. Lockable lid."
     },
     {
       "manufacturer": "IC Biomedical",
@@ -1492,8 +1495,8 @@
       ],
       "specs": {
         "ln2_capacity_l": 6.4,
-        "static_evaporation_rate_l_per_day": 0.64,
         "vapor_hold_time_days": 11,
+        "static_evaporation_rate_l_per_day": 0.64,
         "neck_opening_mm": 216,
         "outer_diameter_mm": 393.7,
         "overall_height_mm": 683.3,
@@ -1565,259 +1568,7 @@
       "catalogVersion": "2023",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Vapor (dry) shipper. IATA compliant. Advanced Concept Adsorbent for faster charging. Lockable lid. Number of Canisters listed as N/A. Static hold time from spec sheet used as vapor_hold_time_days. Consistency check: 6.4 L / 0.64 L/day = 10 days vs 11 days stated — within ±30% tolerance. ✓"
-    },
-    {
-      "manufacturer": "IC Biomedical",
-      "manufacturerInput": "IC Biomedical, LLC",
-      "model": "CX100",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 3.7,
-        "vapor_hold_time_days": 18,
-        "static_evaporation_rate_l_per_day": 0.2,
-        "neck_opening_mm": 70.6,
-        "outer_diameter_mm": 222.3,
-        "overall_height_mm": 472.4,
-        "weight_empty_kg": 4.53,
-        "weight_full_kg": 7.5,
-        "canister_count": 1
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 85,
-          "notes": "1.2 ml & 2.0 ml vials, 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "5_per_cane",
-          "count": 85,
-          "notes": "1.2 ml & 2.0 ml vials, 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 102,
-          "notes": "1.2 ml & 2.0 ml vials, 6/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "6_per_cane",
-          "count": 102,
-          "notes": "1.2 ml & 2.0 ml vials, 6/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "28_per_cane",
-          "count": 784,
-          "notes": "0.25 cc straws, 28/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "2_level_bulk",
-          "count": 1640,
-          "notes": "0.25 cc straws, bulk 2 levels in goblets"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 280,
-          "notes": "0.5 cc straws (1/2 straws), 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 800,
-          "notes": "0.5 cc straws, bulk 2 levels in goblets"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": null,
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Vapor (dry) shipper. Static hold time listed as 18 days; cross-check: 3.7 L / 0.2 L/day = 18.5 days — consistent. Complies with IATA regulations for open cryogenic receptacles. Lockable lid."
-    },
-    {
-      "manufacturer": "IC Biomedical",
-      "manufacturerInput": "IC Biomedical, LLC",
-      "model": "CXR100",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 3.7,
-        "vapor_hold_time_days": 16,
-        "static_evaporation_rate_l_per_day": 0.23,
-        "neck_opening_mm": 90.9,
-        "outer_diameter_mm": 233.7,
-        "overall_height_mm": 492.7,
-        "weight_empty_kg": 5.3,
-        "weight_full_kg": 8.3,
-        "canister_count": 1
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 85,
-          "notes": "1.2 ml & 2.0 ml vials, 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "5_per_cane",
-          "count": 85,
-          "notes": "1.2 ml & 2.0 ml vials, 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 102,
-          "notes": "1.2 ml & 2.0 ml vials, 6/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "6_per_cane",
-          "count": 102,
-          "notes": "1.2 ml & 2.0 ml vials, 6/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "28_per_cane",
-          "count": 784,
-          "notes": "0.25 cc straws, 28/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "2_level_bulk",
-          "count": 1640,
-          "notes": "0.25 cc straws, bulk 2 levels in goblets"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 280,
-          "notes": "0.5 cc straws (1/2 straws), 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 800,
-          "notes": "0.5 cc straws, bulk 2 levels in goblets"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": null,
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Vapor (dry) shipper. Static hold time listed as 16 days; cross-check: 3.7 L / 0.23 L/day ≈ 16.1 days — consistent. Complies with IATA regulations for open cryogenic receptacles. Lockable lid."
-    },
-    {
-      "manufacturer": "IC Biomedical",
-      "manufacturerInput": "IC Biomedical, LLC",
-      "model": "CXR500",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 6.4,
-        "vapor_hold_time_days": 11,
-        "static_evaporation_rate_l_per_day": 0.64,
-        "neck_opening_mm": 216,
-        "outer_diameter_mm": 393.7,
-        "overall_height_mm": 683.3,
-        "weight_empty_kg": 13.6,
-        "weight_full_kg": 18.8,
-        "canister_count": null
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 500,
-          "notes": "1.2 ml & 2.0 ml vials, 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "5_per_cane",
-          "count": 500,
-          "notes": "1.2 ml & 2.0 ml vials, 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 500,
-          "notes": "1.2 ml & 2.0 ml vials, 6/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "6_per_cane",
-          "count": 500,
-          "notes": "1.2 ml & 2.0 ml vials, 6/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "28_per_cane",
-          "count": 1736,
-          "notes": "0.25 cc straws, 28/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "2_level_bulk",
-          "count": 7160,
-          "notes": "0.25 cc straws, bulk 2 levels in goblets"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 1240,
-          "notes": "0.5 cc straws (1/2 straws), 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 3200,
-          "notes": "0.5 cc straws, bulk 2 levels in goblets"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": null,
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Vapor (dry) shipper. Static hold time listed as 11 days; cross-check: 6.4 L / 0.64 L/day = 10.0 days — slight discrepancy (~9%), within ±30% tolerance. Canister count is N/A per spec sheet. Complies with IATA regulations for open cryogenic receptacles. Lockable lid."
+      "notes": "Vapor (dry) shipper. IATA compliant. Advanced Concept Adsorbent for faster charging. Lockable lid. Number of Canisters listed as N/A. Static hold time from spec sheet used as vapor_hold_time_days. Consistency check: 6.4 L / 0.64 L/day = 10 days vs 11 days stated — within ±30% tolerance. ✓\nVapor (dry) shipper. Static hold time listed as 11 days; cross-check: 6.4 L / 0.64 L/day = 10.0 days — slight discrepancy (~9%), within ±30% tolerance. Canister count is N/A per spec sheet. Complies with IATA regulations for open cryogenic receptacles. Lockable lid."
     },
     {
       "manufacturer": "IC Biomedical",
@@ -2197,63 +1948,6 @@
       "lastVerifiedAt": null,
       "confidence": "reviewed",
       "notes": "Dual-mode: usable as LN2 static storage or vapor shipper. 'Charged' weight interpreted as vapor-charged weight for shipping mode. Same LN2 capacity and evap rate as TW47-6 Dual but 10 smaller-diameter canisters vs 6 larger. Consistency check: 48L / 0.390 L/day ≈ 123 days; stated hold time is 76 days — possible discrepancy; may reflect working volume or safety reserve basis."
-    },
-    {
-      "manufacturer": "IC Biomedical",
-      "manufacturerInput": "IC Biomedical, LLC",
-      "model": "25LD",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 25
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": null,
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Liquid Dewar 25 liters. Designed for LN2 storage and transfer to cryo gun canisters used in cryosurgical procedures. Compatible with LWD (D050-8C03) and Roller Base (R018-8C00). No evaporation rate or hold time data published in this document."
-    },
-    {
-      "manufacturer": "IC Biomedical",
-      "manufacturerInput": "IC Biomedical, LLC",
-      "model": "35LD",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 35
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": null,
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Liquid Dewar 35 liters. Designed for LN2 storage and transfer to cryo gun canisters used in cryosurgical procedures. Compatible with LWD (D050-8C03) and Roller Base (R033-8C00). No evaporation rate or hold time data published in this document."
-    },
-    {
-      "manufacturer": "IC Biomedical",
-      "manufacturerInput": "IC Biomedical, LLC",
-      "model": "50LD",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 50
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": null,
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Liquid Dewar 50 liters. Designed for LN2 storage and transfer to cryo gun canisters used in cryosurgical procedures. Compatible with LWD (D050-8C03) and Roller Base (R033-8C00). No evaporation rate or hold time data published in this document."
     },
     {
       "manufacturer": "IC Biomedical",
@@ -3100,19 +2794,24 @@
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
+      "manufacturerInput": "MVE Biological Solutions",
       "model": "MVE 815P-190",
       "categories": [
+        "freezer_isothermal_ln2",
         "dewar_vapor_shipper"
       ],
       "specs": {
-        "ln2_capacity_l": 6,
-        "neck_opening_mm": 317,
+        "ln2_capacity_l": 360,
+        "neck_opening_mm": 318,
         "usable_height_mm": 673,
         "internal_diameter_mm": 731,
         "overall_height_mm": 1478,
         "weight_empty_kg": 218,
-        "weight_full_kg": 526
+        "weight_full_kg": 526,
+        "working_volume_l": 62,
+        "autofill_capable": true,
+        "controller_model": "CryoVerse™ Connect Controller",
+        "temperature_uniformity_c": 5
       },
       "capacities": [
         {
@@ -3120,7 +2819,55 @@
           "sampleSizeMl": 1.2,
           "configuration": "internally_threaded",
           "count": 15600,
-          "notes": "1.2 ml internally threaded vials"
+          "notes": "1.2 & 2 ml internally threaded vials combined count"
+        },
+        {
+          "sampleType": "rack",
+          "configuration": "large_rack_100_cell_box",
+          "count": 12,
+          "notes": "Large racks, 100-cell boxes; 12 shelves per rack"
+        },
+        {
+          "sampleType": "rack",
+          "configuration": "mini_rack_25_cell_box",
+          "count": 4,
+          "notes": "Mini racks, 25-cell boxes"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_Medsep_25ml_62_per_frame",
+          "count": 1224,
+          "notes": "791 OS/U Medsep (25 ml); 62 bags/frame, 4 frames; between usable height and clearance for some models"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_61_per_frame",
+          "count": 768,
+          "notes": "4R9951 (50 ml); 61 bags/frame, 2 frames... actually 61*? — source: 768/2=384? — see raw: 768 bags, 61/frame, 2 frames; note: 61*2=122≠768; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_41_per_frame",
+          "count": 416,
+          "notes": "4R9953 (250 ml); 41 bags/frame, 4 frames; note: 41*4=164≠416; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_47_per_frame",
+          "count": 304,
+          "notes": "4R9955 (500 ml); 47 bags/frame, 4 frames; note: 47*4=188≠304; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_45_per_frame",
+          "count": 236,
+          "notes": "DF200 (200 ml); 45 bags/frame, 4 frames; note: 45*4=180≠236; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_56_per_frame",
+          "count": 256,
+          "notes": "DF700 (700 ml); 56 bags/frame, 4 frames; using raw values"
         },
         {
           "sampleType": "vial",
@@ -3175,10 +2922,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "ML-000068 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "LN2 capacity at vapor platform est. 6 L; LN2 capacity w/o inventory est. 360 L. Temperature: -190°C vapor storage. Optional Battery Backup. Square Rack Layout (P). Fits 12 large racks (100-cell boxes) and 4 mini racks (25-cell boxes), 12 shelves per rack. Door width requirement: 813 mm (843 mm with handles). Five-year vacuum warranty, two-year parts warranty. Conforms to MDD 93/42/EEC; UL/C-UL Listed."
+      "notes": "LN2 capacity at vapor platform: 62 L est. LN2 capacity w/o inventory: 360 L est. Overall height includes autofill. Liftover height 942 mm. Door width requirement: 813 mm (843 mm with handles). Temperature uniformity -190°C ±5°C at top box when loaded.\nLN2 capacity at vapor platform est. 6 L; LN2 capacity w/o inventory est. 360 L. Temperature: -190°C vapor storage. Optional Battery Backup. Square Rack Layout (P). Fits 12 large racks (100-cell boxes) and 4 mini racks (25-cell boxes), 12 shelves per rack. Door width requirement: 813 mm (843 mm with handles). Five-year vacuum warranty, two-year parts warranty. Conforms to MDD 93/42/EEC; UL/C-UL Listed."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -3272,15 +3019,73 @@
       "specs": {
         "ln2_capacity_l": 756,
         "neck_opening_mm": 445,
-        "usable_height_mm": 732,
+        "usable_height_mm": 730,
         "internal_diameter_mm": 978,
         "overall_height_mm": 1556,
         "weight_empty_kg": 313,
         "weight_full_kg": 924,
         "autofill_capable": true,
-        "temperature_range_min_c": -190
+        "temperature_range_min_c": -190,
+        "working_volume_l": 133,
+        "controller_model": "CryoVerse™ Connect Controller",
+        "temperature_uniformity_c": 5
       },
       "capacities": [
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "internally_threaded",
+          "count": 36400,
+          "notes": "1.2 & 2 ml internally threaded vials combined count"
+        },
+        {
+          "sampleType": "rack",
+          "configuration": "large_rack_100_cell_box",
+          "count": 24,
+          "notes": "Large racks, 100-cell boxes; 13 shelves per rack"
+        },
+        {
+          "sampleType": "rack",
+          "configuration": "mini_rack_25_cell_box",
+          "count": 16,
+          "notes": "Mini racks, 25-cell boxes"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_Medsep_25ml_8_per_frame",
+          "count": 3320,
+          "notes": "791 OS/U Medsep (25 ml); 8 bags/frame, 15 frames; 8*15=120≠3320; flagged discrepancy; using raw values; † between usable height and clearance"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_72_per_frame",
+          "count": 1736,
+          "notes": "4R9951 (50 ml); 72 bags/frame, 24 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_42_per_frame",
+          "count": 1248,
+          "notes": "4R9953 (250 ml); 42 bags/frame, 0 frames... source unclear; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_41_per_frame",
+          "count": 840,
+          "notes": "4R9955 (500 ml); 41 bags/frame, 5 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_41_per_frame",
+          "count": 964,
+          "notes": "DF200 (200 ml); 41 bags/frame, 2 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_46_per_frame",
+          "count": 264,
+          "notes": "DF700 (700 ml); 46 bags/frame, 6 frames; using raw values"
+        },
         {
           "sampleType": "vial",
           "sampleSizeMl": 1.2,
@@ -3335,10 +3140,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "ML-000068 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "LN2 capacity at vapor platform est. 133 L; LN2 capacity w/o inventory est. 756 L. Liftover height 942 mm. Door width requirement 1067 mm. Depth of extended step 201 mm. Top box temperature -190°C. Square Rack Layout (P). TEC 3000 controller available. 5-year vacuum warranty, 2-year parts warranty."
+      "notes": "LN2 capacity at vapor platform: 133 L est. LN2 capacity w/o inventory: 756 L est. Overall height includes autofill. Liftover height 995 mm. Door width requirement: 1067 mm (201 mm with handles — likely a document error). Temperature uniformity -190°C ±5°C at top box when loaded.\nLN2 capacity at vapor platform est. 133 L; LN2 capacity w/o inventory est. 756 L. Liftover height 942 mm. Door width requirement 1067 mm. Depth of extended step 201 mm. Top box temperature -190°C. Square Rack Layout (P). TEC 3000 controller available. 5-year vacuum warranty, 2-year parts warranty."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -3428,15 +3233,73 @@
       "specs": {
         "ln2_capacity_l": 797,
         "neck_opening_mm": 445,
-        "usable_height_mm": 782,
+        "usable_height_mm": 781,
         "internal_diameter_mm": 983,
-        "overall_height_mm": 1608,
+        "overall_height_mm": 1607,
         "weight_empty_kg": 327,
         "weight_full_kg": 971,
         "autofill_capable": true,
-        "temperature_range_min_c": -190
+        "temperature_range_min_c": -190,
+        "working_volume_l": 133,
+        "controller_model": "CryoVerse™ Connect Controller",
+        "temperature_uniformity_c": 5
       },
       "capacities": [
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "internally_threaded",
+          "count": 42000,
+          "notes": "1.2 & 2 ml internally threaded vials combined count"
+        },
+        {
+          "sampleType": "rack",
+          "configuration": "large_rack_100_cell_box",
+          "count": 26,
+          "notes": "Large racks, 100-cell boxes; 14 shelves per rack"
+        },
+        {
+          "sampleType": "rack",
+          "configuration": "mini_rack_25_cell_box",
+          "count": 16,
+          "notes": "Mini racks, 25-cell boxes"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_Medsep_25ml_8_per_frame",
+          "count": 3184,
+          "notes": "791 OS/U Medsep (25 ml); 8 bags/frame, 39 frames; using raw values; † between usable height and clearance"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_72_per_frame",
+          "count": 1687,
+          "notes": "4R9951 (50 ml); 72 bags/frame, 41 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_37_per_frame",
+          "count": 684,
+          "notes": "4R9953 (250 ml); 37 bags/frame, 19 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_25_per_frame",
+          "count": 764,
+          "notes": "4R9955 (500 ml); 25 bags/frame, 57 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_48_per_frame",
+          "count": 1248,
+          "notes": "DF200 (200 ml); 48 bags/frame, 12 frames; using raw values"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_30_per_frame",
+          "count": 305,
+          "notes": "DF700 (700 ml); 30 bags/frame, 12 frames; using raw values"
+        },
         {
           "sampleType": "vial",
           "sampleSizeMl": 1.2,
@@ -3491,29 +3354,89 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "ML-000068 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "LN2 capacity at vapor platform est. 133 L; LN2 capacity w/o inventory est. 797 L. Liftover height 995 mm. Door width requirement 1067 mm. Depth of extended step 201 mm. Top box temperature -190°C. 4R9951 Rack Layout (R). TEC 3000 controller available. 5-year vacuum warranty, 2-year parts warranty. CAUTION: Several blood bag Bags/Frame × No. Frames figures in the source document do not multiply to the stated totals — likely OCR/column-alignment errors; reviewer should verify against original."
+      "notes": "LN2 capacity at vapor platform: 133 L est. LN2 capacity w/o inventory: 797 L est. Overall height includes autofill. Door width requirement: 1067 mm (201 mm with handles — likely a document error). Temperature uniformity -190°C ±5°C at top box when loaded. R-suffix indicates rack-style vessel.\nLN2 capacity at vapor platform est. 133 L; LN2 capacity w/o inventory est. 797 L. Liftover height 995 mm. Door width requirement 1067 mm. Depth of extended step 201 mm. Top box temperature -190°C. 4R9951 Rack Layout (R). TEC 3000 controller available. 5-year vacuum warranty, 2-year parts warranty. CAUTION: Several blood bag Bags/Frame × No. Frames figures in the source document do not multiply to the stated totals — likely OCR/column-alignment errors; reviewer should verify against original."
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
+      "manufacturerInput": "MVE Biological Systems",
       "model": "MVE Variō 1536P",
       "categories": [
+        "freezer_isothermal_ln2",
         "freezer_mechanical_ult"
       ],
       "specs": {
         "temperature_range_min_c": -150,
-        "temperature_range_max_c": -20,
+        "temperature_range_max_c": -50,
         "power_consumption_kwh_per_day": 0.192,
         "neck_opening_mm": 445,
         "usable_height_mm": 732,
         "internal_diameter_mm": 978,
         "overall_height_mm": 1556,
-        "weight_empty_kg": 313
+        "weight_empty_kg": 313,
+        "controller_model": "MVE Variō Pro",
+        "autofill_capable": true,
+        "temperature_uniformity_c": 5
       },
       "capacities": [
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "100_cell_box_rack",
+          "count": 36400,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 13 boxes per rack"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 2,
+          "configuration": "100_cell_box_rack",
+          "count": 36400,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 13 boxes per rack"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_25ml_7_per_frame",
+          "count": 3080,
+          "notes": "791 OS/U 25ml bags; 7 bags/frame, 440 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "compact_25ml_9_per_frame",
+          "count": 4338,
+          "notes": "Compact 25ml bags; 9 bags/frame, 482 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_6_per_frame",
+          "count": 1488,
+          "notes": "4R9951 50ml bags; 6 bags/frame, 248 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_4_per_frame",
+          "count": 496,
+          "notes": "DF200 200ml bags; 4 bags/frame, 124 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_4_per_frame",
+          "count": 812,
+          "notes": "4R9953 250ml bags; 4 bags/frame, 203 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_4_per_frame",
+          "count": 608,
+          "notes": "4R9955 500ml bags; 4 bags/frame, 152 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_4_per_frame",
+          "count": 256,
+          "notes": "DF700 700ml bags; 4 bags/frame, 64 frames"
+        },
         {
           "sampleType": "vial",
           "sampleSizeMl": 1.2,
@@ -3573,29 +3496,89 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "PN 14930250 REV F",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Square Rack (P) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
+      "notes": "Outer diameter not published; inner diameter 978 mm given. Lift-over height 944 mm; minimum ceiling height 2115 mm; minimum door width 1067 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document.\nSquare Rack (P) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
+      "manufacturerInput": "MVE Biological Systems",
       "model": "MVE Variō 1539R",
       "categories": [
+        "freezer_isothermal_ln2",
         "freezer_mechanical_ult"
       ],
       "specs": {
         "temperature_range_min_c": -150,
-        "temperature_range_max_c": -20,
+        "temperature_range_max_c": -50,
         "power_consumption_kwh_per_day": 0.192,
         "neck_opening_mm": 445,
-        "usable_height_mm": 745,
+        "usable_height_mm": 782,
         "internal_diameter_mm": 978,
-        "overall_height_mm": 1556,
-        "weight_empty_kg": 313
+        "overall_height_mm": 1607,
+        "weight_empty_kg": 313,
+        "controller_model": "MVE Variō Pro",
+        "autofill_capable": true,
+        "temperature_uniformity_c": 5
       },
       "capacities": [
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "100_cell_box_rack",
+          "count": 39200,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 14 boxes per rack"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 2,
+          "configuration": "100_cell_box_rack",
+          "count": 39200,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 14 boxes per rack"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_25ml_8_per_frame",
+          "count": 3064,
+          "notes": "791 OS/U 25ml bags; 8 bags/frame, 383 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "compact_25ml_9_per_frame",
+          "count": 4338,
+          "notes": "Compact 25ml bags; 9 bags/frame, 482 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_7_per_frame",
+          "count": 1736,
+          "notes": "4R9951 50ml bags; 7 bags/frame, 248 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_4_per_frame",
+          "count": 812,
+          "notes": "DF200 200ml bags; 4 bags/frame, 203 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_4_per_frame",
+          "count": 608,
+          "notes": "4R9953 250ml bags; 4 bags/frame, 152 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_4_per_frame",
+          "count": 496,
+          "notes": "4R9955 500ml bags; 4 bags/frame, 124 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_4_per_frame",
+          "count": 256,
+          "notes": "DF700 700ml bags; 4 bags/frame, 64 frames"
+        },
         {
           "sampleType": "vial",
           "sampleSizeMl": 1.2,
@@ -3655,29 +3638,89 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "PN 14930250 REV F",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "4R9951 Rack (R) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
+      "notes": "Outer diameter not published; inner diameter 978 mm given. Lift-over height 944 mm; minimum ceiling height 2115 mm; minimum door width 1067 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document.\n4R9951 Rack (R) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
+      "manufacturerInput": "MVE Biological Systems",
       "model": "MVE Variō 1879P",
       "categories": [
+        "freezer_isothermal_ln2",
         "freezer_mechanical_ult"
       ],
       "specs": {
         "temperature_range_min_c": -150,
-        "temperature_range_max_c": -20,
+        "temperature_range_max_c": -50,
         "power_consumption_kwh_per_day": 0.192,
         "neck_opening_mm": 635,
         "usable_height_mm": 749,
         "internal_diameter_mm": 1422,
         "overall_height_mm": 1577,
-        "weight_empty_kg": 728
+        "weight_empty_kg": 728,
+        "controller_model": "MVE Variō Pro",
+        "autofill_capable": true,
+        "temperature_uniformity_c": 5
       },
       "capacities": [
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "100_cell_box_rack",
+          "count": 79950,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 54 racks of 100-cell boxes, 13 boxes per rack"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 2,
+          "configuration": "100_cell_box_rack",
+          "count": 79950,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 54 racks of 100-cell boxes, 13 boxes per rack"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_25ml_7_per_frame",
+          "count": 5866,
+          "notes": "791 OS/U 25ml bags; 7 bags/frame, 838 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "compact_25ml_9_per_frame",
+          "count": 8622,
+          "notes": "Compact 25ml bags; 9 bags/frame, 958 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_6_per_frame",
+          "count": 2952,
+          "notes": "4R9951 50ml bags; 6 bags/frame, 492 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_4_per_frame",
+          "count": 1584,
+          "notes": "DF200 200ml bags; 4 bags/frame, 396 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_4_per_frame",
+          "count": 1104,
+          "notes": "4R9953 250ml bags; 4 bags/frame, 276 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_4_per_frame",
+          "count": 960,
+          "notes": "4R9955 500ml bags; 4 bags/frame, 240 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_4_per_frame",
+          "count": 504,
+          "notes": "DF700 700ml bags; 4 bags/frame, 126 frames"
+        },
         {
           "sampleType": "vial",
           "sampleSizeMl": 1.2,
@@ -3737,29 +3780,89 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "PN 14930250 REV F",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Square Rack (P) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
+      "notes": "Outer diameter not published; inner diameter 1422 mm given. Lift-over height 1021 mm; minimum ceiling height 2294 mm; minimum door width 1524 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document.\nSquare Rack (P) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
+      "manufacturerInput": "MVE Biological Systems",
       "model": "MVE Variō 1881R",
       "categories": [
+        "freezer_isothermal_ln2",
         "freezer_mechanical_ult"
       ],
       "specs": {
         "temperature_range_min_c": -150,
-        "temperature_range_max_c": -20,
+        "temperature_range_max_c": -50,
         "power_consumption_kwh_per_day": 0.192,
         "neck_opening_mm": 635,
-        "usable_height_mm": 741,
+        "usable_height_mm": 749,
         "internal_diameter_mm": 1391,
         "overall_height_mm": 1556,
-        "weight_empty_kg": 781
+        "weight_empty_kg": 781,
+        "controller_model": "MVE Variō Pro",
+        "autofill_capable": true,
+        "temperature_uniformity_c": 5
       },
       "capacities": [
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "100_cell_box_rack",
+          "count": 81900,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 60 racks of 100-cell boxes, 13 boxes per rack"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 2,
+          "configuration": "100_cell_box_rack",
+          "count": 81900,
+          "notes": "1.2 & 2.0 ml internally threaded vials; 60 racks of 100-cell boxes, 13 boxes per rack"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "791_OS_U_25ml_7_per_frame",
+          "count": 5628,
+          "notes": "791 OS/U 25ml bags; 7 bags/frame, 804 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "compact_25ml_9_per_frame",
+          "count": 9414,
+          "notes": "Compact 25ml bags; 9 bags/frame, 1046 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9951_50ml_6_per_frame",
+          "count": 2940,
+          "notes": "4R9951 50ml bags; 6 bags/frame, 490 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF200_200ml_4_per_frame",
+          "count": 1608,
+          "notes": "DF200 200ml bags; 4 bags/frame, 402 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9953_250ml_4_per_frame",
+          "count": 1240,
+          "notes": "4R9953 250ml bags; 4 bags/frame, 310 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "4R9955_500ml_4_per_frame",
+          "count": 984,
+          "notes": "4R9955 500ml bags; 4 bags/frame, 246 frames"
+        },
+        {
+          "sampleType": "blood_bag",
+          "configuration": "DF700_700ml_4_per_frame",
+          "count": 544,
+          "notes": "DF700 700ml bags; 4 bags/frame, 136 frames"
+        },
         {
           "sampleType": "vial",
           "sampleSizeMl": 1.2,
@@ -3819,10 +3922,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
+      "catalogVersion": "PN 14930250 REV F",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "4R9951 Rack (R) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
+      "notes": "Outer diameter not published; inner diameter 1391 mm given. Lift-over height 985 mm; minimum ceiling height 2257 mm; minimum door width 1524 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document.\n4R9951 Rack (R) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 13 shelves per rack."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -3905,346 +4008,6 @@
       "lastVerifiedAt": null,
       "confidence": "reviewed",
       "notes": "4R9951 Rack (R) layout. Power 8W continuous = 0.192 kWh/day. Temperature range -20°C to -150°C; convertible to -190°C with optional kit. 15 shelves per rack."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Systems",
-      "model": "MVE Variō 1536P",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "internal_diameter_mm": 978,
-        "overall_height_mm": 1556,
-        "usable_height_mm": 732,
-        "neck_opening_mm": 445,
-        "weight_empty_kg": 313,
-        "controller_model": "MVE Variō Pro",
-        "autofill_capable": true,
-        "temperature_range_min_c": -150,
-        "temperature_range_max_c": -50,
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "100_cell_box_rack",
-          "count": 36400,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 13 boxes per rack"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "100_cell_box_rack",
-          "count": 36400,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 13 boxes per rack"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_25ml_7_per_frame",
-          "count": 3080,
-          "notes": "791 OS/U 25ml bags; 7 bags/frame, 440 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "compact_25ml_9_per_frame",
-          "count": 4338,
-          "notes": "Compact 25ml bags; 9 bags/frame, 482 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_6_per_frame",
-          "count": 1488,
-          "notes": "4R9951 50ml bags; 6 bags/frame, 248 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_4_per_frame",
-          "count": 496,
-          "notes": "DF200 200ml bags; 4 bags/frame, 124 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_4_per_frame",
-          "count": 812,
-          "notes": "4R9953 250ml bags; 4 bags/frame, 203 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_4_per_frame",
-          "count": 608,
-          "notes": "4R9955 500ml bags; 4 bags/frame, 152 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_4_per_frame",
-          "count": 256,
-          "notes": "DF700 700ml bags; 4 bags/frame, 64 frames"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "PN 14930250 REV F",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Outer diameter not published; inner diameter 978 mm given. Lift-over height 944 mm; minimum ceiling height 2115 mm; minimum door width 1067 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Systems",
-      "model": "MVE Variō 1539R",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "internal_diameter_mm": 978,
-        "overall_height_mm": 1607,
-        "usable_height_mm": 782,
-        "neck_opening_mm": 445,
-        "weight_empty_kg": 313,
-        "controller_model": "MVE Variō Pro",
-        "autofill_capable": true,
-        "temperature_range_min_c": -150,
-        "temperature_range_max_c": -50,
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "100_cell_box_rack",
-          "count": 39200,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 14 boxes per rack"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "100_cell_box_rack",
-          "count": 39200,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 24 racks of 100-cell boxes, 14 boxes per rack"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_25ml_8_per_frame",
-          "count": 3064,
-          "notes": "791 OS/U 25ml bags; 8 bags/frame, 383 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "compact_25ml_9_per_frame",
-          "count": 4338,
-          "notes": "Compact 25ml bags; 9 bags/frame, 482 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_7_per_frame",
-          "count": 1736,
-          "notes": "4R9951 50ml bags; 7 bags/frame, 248 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_4_per_frame",
-          "count": 812,
-          "notes": "DF200 200ml bags; 4 bags/frame, 203 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_4_per_frame",
-          "count": 608,
-          "notes": "4R9953 250ml bags; 4 bags/frame, 152 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_4_per_frame",
-          "count": 496,
-          "notes": "4R9955 500ml bags; 4 bags/frame, 124 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_4_per_frame",
-          "count": 256,
-          "notes": "DF700 700ml bags; 4 bags/frame, 64 frames"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "PN 14930250 REV F",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Outer diameter not published; inner diameter 978 mm given. Lift-over height 944 mm; minimum ceiling height 2115 mm; minimum door width 1067 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Systems",
-      "model": "MVE Variō 1879P",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "internal_diameter_mm": 1422,
-        "overall_height_mm": 1577,
-        "usable_height_mm": 749,
-        "neck_opening_mm": 635,
-        "weight_empty_kg": 728,
-        "controller_model": "MVE Variō Pro",
-        "autofill_capable": true,
-        "temperature_range_min_c": -150,
-        "temperature_range_max_c": -50,
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "100_cell_box_rack",
-          "count": 79950,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 54 racks of 100-cell boxes, 13 boxes per rack"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "100_cell_box_rack",
-          "count": 79950,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 54 racks of 100-cell boxes, 13 boxes per rack"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_25ml_7_per_frame",
-          "count": 5866,
-          "notes": "791 OS/U 25ml bags; 7 bags/frame, 838 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "compact_25ml_9_per_frame",
-          "count": 8622,
-          "notes": "Compact 25ml bags; 9 bags/frame, 958 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_6_per_frame",
-          "count": 2952,
-          "notes": "4R9951 50ml bags; 6 bags/frame, 492 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_4_per_frame",
-          "count": 1584,
-          "notes": "DF200 200ml bags; 4 bags/frame, 396 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_4_per_frame",
-          "count": 1104,
-          "notes": "4R9953 250ml bags; 4 bags/frame, 276 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_4_per_frame",
-          "count": 960,
-          "notes": "4R9955 500ml bags; 4 bags/frame, 240 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_4_per_frame",
-          "count": 504,
-          "notes": "DF700 700ml bags; 4 bags/frame, 126 frames"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "PN 14930250 REV F",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Outer diameter not published; inner diameter 1422 mm given. Lift-over height 1021 mm; minimum ceiling height 2294 mm; minimum door width 1524 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Systems",
-      "model": "MVE Variō 1881R",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "internal_diameter_mm": 1391,
-        "overall_height_mm": 1556,
-        "usable_height_mm": 749,
-        "neck_opening_mm": 635,
-        "weight_empty_kg": 781,
-        "controller_model": "MVE Variō Pro",
-        "autofill_capable": true,
-        "temperature_range_min_c": -150,
-        "temperature_range_max_c": -50,
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "100_cell_box_rack",
-          "count": 81900,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 60 racks of 100-cell boxes, 13 boxes per rack"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "100_cell_box_rack",
-          "count": 81900,
-          "notes": "1.2 & 2.0 ml internally threaded vials; 60 racks of 100-cell boxes, 13 boxes per rack"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_25ml_7_per_frame",
-          "count": 5628,
-          "notes": "791 OS/U 25ml bags; 7 bags/frame, 804 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "compact_25ml_9_per_frame",
-          "count": 9414,
-          "notes": "Compact 25ml bags; 9 bags/frame, 1046 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_6_per_frame",
-          "count": 2940,
-          "notes": "4R9951 50ml bags; 6 bags/frame, 490 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_4_per_frame",
-          "count": 1608,
-          "notes": "DF200 200ml bags; 4 bags/frame, 402 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_4_per_frame",
-          "count": 1240,
-          "notes": "4R9953 250ml bags; 4 bags/frame, 310 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_4_per_frame",
-          "count": 984,
-          "notes": "4R9955 500ml bags; 4 bags/frame, 246 frames"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_4_per_frame",
-          "count": 544,
-          "notes": "DF700 700ml bags; 4 bags/frame, 136 frames"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "PN 14930250 REV F",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Outer diameter not published; inner diameter 1391 mm given. Lift-over height 985 mm; minimum ceiling height 2257 mm; minimum door width 1524 mm. Temperature range -50°C to -150°C maintained within ±5°C. ln2_capacity_l and working_volume_l not published in this document."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -4472,905 +4235,47 @@
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 2/1V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.19,
-        "vapor_hold_time_days": 8,
-        "weight_empty_kg": 2.7,
-        "weight_vapor_charged_kg": 3.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. Charged weight differential ~1.0 kg. Hold time × NER = 1.52 L vs. weight differential 1.0 kg ÷ 0.8083 = 1.24 L — within tolerance given rounding."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/2V LEGACY",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.26,
-        "vapor_hold_time_days": 13,
-        "weight_empty_kg": 4.5,
-        "weight_vapor_charged_kg": 7.7
-      },
-      "capacities": [],
-      "supersededBy": "SC 4/2V",
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Legacy variant of SC 4/2V."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/2V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.23,
-        "vapor_hold_time_days": 19,
-        "weight_empty_kg": 5.6,
-        "weight_vapor_charged_kg": 8.9
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Updated product data per REV. AC design change."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/3V LEGACY",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.2,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 5.3,
-        "weight_vapor_charged_kg": 8.7
-      },
-      "capacities": [],
-      "supersededBy": "SC 4/3V",
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Legacy variant of SC 4/3V."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/3V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.19,
-        "vapor_hold_time_days": 26,
-        "weight_empty_kg": 5.7,
-        "weight_vapor_charged_kg": 9.3
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Updated product data per REV. AC design change."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 30/12V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.22,
-        "vapor_hold_time_days": 82,
-        "weight_empty_kg": 20,
-        "weight_vapor_charged_kg": 34
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Largest hold time in the table at 82 days."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 65/5V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.79,
-        "vapor_hold_time_days": 30,
-        "weight_empty_kg": 32.1,
-        "weight_vapor_charged_kg": 60
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3B per English section 1 table; 3A per SI sections 2–7. Discrepancy noted between document sections — section 1 (imperial) shows 3B, SI and other language sections show 3A. Flagged for reviewer."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Cryoshipper",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.85,
-        "vapor_hold_time_days": 10,
-        "weight_empty_kg": 11.6,
-        "weight_vapor_charged_kg": 17.3
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Cryoshipper XC/IATA",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.7,
-        "vapor_hold_time_days": 14,
-        "weight_empty_kg": 14.6,
-        "weight_vapor_charged_kg": 22.1
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. IATA-compliant variant."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Cryoshipper 2000",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.79,
-        "vapor_hold_time_days": 15,
-        "weight_empty_kg": 29.5,
-        "weight_vapor_charged_kg": 43.1
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3B."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 11",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.17,
-        "vapor_hold_time_days": 17,
-        "weight_empty_kg": 6.4,
-        "weight_vapor_charged_kg": 8.8
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 22",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 18,
-        "weight_empty_kg": 10.7,
-        "weight_vapor_charged_kg": 15.8
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. Center canister required. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 20",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.1,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 10.4,
-        "weight_vapor_charged_kg": 13.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 28",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 14.6,
-        "weight_vapor_charged_kg": 21.2
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 34",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.2,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 15.8,
-        "weight_vapor_charged_kg": 21.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 47",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.4,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 18.5,
-        "weight_vapor_charged_kg": 24.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "YDH-3",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.14,
-        "vapor_hold_time_days": 25,
-        "weight_empty_kg": 5.3,
-        "weight_vapor_charged_kg": 8.1
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "YDH-8-80",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.22,
-        "vapor_hold_time_days": 36,
-        "weight_empty_kg": 9.2,
-        "weight_vapor_charged_kg": 15.6
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "YDH-8-90",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 23,
-        "weight_empty_kg": 12.2,
-        "weight_vapor_charged_kg": 18.6
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "ET-24-10",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 23,
-        "weight_empty_kg": 16.5,
-        "weight_vapor_charged_kg": 22.9
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "11562640 REV. AC",
-      "lastVerifiedAt": "2025-06",
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 2/1V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.19,
-        "vapor_hold_time_days": 8,
-        "weight_empty_kg": 2.7,
-        "weight_vapor_charged_kg": 3.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/2V LEGACY",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.26,
-        "vapor_hold_time_days": 13,
-        "weight_empty_kg": 4.5,
-        "weight_vapor_charged_kg": 7.7
-      },
-      "capacities": [],
-      "supersededBy": "SC 4/2V",
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/2V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.23,
-        "vapor_hold_time_days": 19,
-        "weight_empty_kg": 5.6,
-        "weight_vapor_charged_kg": 8.9
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical. New product data added in REV. C."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/3V LEGACY",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.2,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 5.3,
-        "weight_vapor_charged_kg": 8.7
-      },
-      "capacities": [],
-      "supersededBy": "SC 4/3V",
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/3V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.19,
-        "vapor_hold_time_days": 26,
-        "weight_empty_kg": 5.7,
-        "weight_vapor_charged_kg": 9.3
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical. New product data added in REV. C."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 30/12V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.22,
-        "vapor_hold_time_days": 82,
-        "weight_empty_kg": 20,
-        "weight_vapor_charged_kg": 34
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 65/5V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.79,
-        "vapor_hold_time_days": 30,
-        "weight_empty_kg": 32.1,
-        "weight_vapor_charged_kg": 60
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3B (section 1 English) / 3A (section 2 SI English and other language sections). Discrepancy in ISTA certification between table instances (3B vs 3A). 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Cryoshipper",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.85,
-        "vapor_hold_time_days": 10,
-        "weight_empty_kg": 11.6,
-        "weight_vapor_charged_kg": 17.3
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Cryoshipper XC/IATA",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.7,
-        "vapor_hold_time_days": 14,
-        "weight_empty_kg": 14.6,
-        "weight_vapor_charged_kg": 22.1
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Cryoshipper 2000",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.79,
-        "vapor_hold_time_days": 15,
-        "weight_empty_kg": 29.5,
-        "weight_vapor_charged_kg": 43.1
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3B. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 11",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.17,
-        "vapor_hold_time_days": 17,
-        "weight_empty_kg": 6.4,
-        "weight_vapor_charged_kg": 8.8
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 22",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 18,
-        "weight_empty_kg": 10.7,
-        "weight_vapor_charged_kg": 15.8
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. Center canister required. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 20",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.1,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 10.4,
-        "weight_vapor_charged_kg": 13.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 28",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 14.6,
-        "weight_vapor_charged_kg": 21.2
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 34",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.2,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 15.8,
-        "weight_vapor_charged_kg": 21.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "Doble 47",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.4,
-        "vapor_hold_time_days": 21,
-        "weight_empty_kg": 18.5,
-        "weight_vapor_charged_kg": 24.7
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "YDH-3",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.14,
-        "vapor_hold_time_days": 25,
-        "weight_empty_kg": 5.3,
-        "weight_vapor_charged_kg": 8.1
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "YDH-8-80",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.22,
-        "vapor_hold_time_days": 36,
-        "weight_empty_kg": 9.2,
-        "weight_vapor_charged_kg": 15.6
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "YDH-8-90",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 23,
-        "weight_empty_kg": 12.2,
-        "weight_vapor_charged_kg": 18.6
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "ET-24-10",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 0.35,
-        "vapor_hold_time_days": 23,
-        "weight_empty_kg": 16.5,
-        "weight_vapor_charged_kg": 22.9
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "21838387 REV. C",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "ISTA certified: N. 5% variance in actual weight is typical."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
+      "manufacturerInput": "MVE",
       "model": "SC 2/1V",
       "categories": [
         "dewar_vapor_shipper"
       ],
       "specs": {
         "weight_empty_kg": 2.7,
-        "weight_vapor_charged_kg": 3.7,
+        "weight_vapor_charged_kg": 3.6,
         "vapor_hold_time_days": 8,
-        "static_evaporation_rate_l_per_day": 0.19
+        "static_evaporation_rate_l_per_day": 0.19,
+        "ln2_capacity_l": 1.5,
+        "neck_opening_mm": 35,
+        "overall_height_mm": 343,
+        "outer_diameter_mm": 184,
+        "canister_height_mm": 127,
+        "canister_diameter_mm": 31,
+        "weight_full_kg": 4.1
       },
-      "capacities": [],
+      "capacities": [
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "1_level_bulk",
+          "count": 88,
+          "notes": "1/2 cc straws bulk 1 level"
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.25,
+          "configuration": "1_level_bulk",
+          "count": 182,
+          "notes": "1/4 cc straws bulk 1 level"
+        }
+      ],
       "supersededBy": null,
       "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
+      "sourceUrl": null,
+      "catalogVersion": "ML-000050 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Charged weight differential ~1.0 kg. Hold time × NER = 8 × 0.19 = 1.52 L absorbed; check via (charged−empty)/0.8083 = ~1.24 L — within acceptable range given 5% weight variance."
+      "notes": "1 canister. No 10/cane straw data published for this model. IATA Exempt (Special Provision A152).\nISTA certified: N. Charged weight differential ~1.0 kg. Hold time × NER = 1.52 L vs. weight differential 1.0 kg ÷ 0.8083 = 1.24 L — within tolerance given rounding.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Charged weight differential ~1.0 kg. Hold time × NER = 8 × 0.19 = 1.52 L absorbed; check via (charged−empty)/0.8083 = ~1.24 L — within acceptable range given 5% weight variance."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5389,10 +4294,10 @@
       "supersededBy": "SC 4/2V",
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Legacy variant of SC 4/2V."
+      "notes": "ISTA certified: 3A. Legacy variant of SC 4/2V.\nISTA certified: 3A. 5% variance in actual weight is typical."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5405,16 +4310,60 @@
         "weight_empty_kg": 5.6,
         "weight_vapor_charged_kg": 8.9,
         "vapor_hold_time_days": 19,
-        "static_evaporation_rate_l_per_day": 0.23
+        "static_evaporation_rate_l_per_day": 0.23,
+        "ln2_capacity_l": 4.1,
+        "neck_opening_mm": 70,
+        "overall_height_mm": 498,
+        "outer_diameter_mm": 227,
+        "canister_height_mm": 279,
+        "canister_diameter_mm": 67,
+        "weight_full_kg": 10.6,
+        "canister_count": 1
       },
-      "capacities": [],
+      "capacities": [
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "10_per_cane",
+          "count": 280,
+          "notes": "1/2 cc straws, 10 per cane, 1 canister"
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "1_level_bulk",
+          "count": 440,
+          "notes": "1/2 cc straws, 1 level bulk"
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.25,
+          "configuration": "1_level_bulk",
+          "count": 938,
+          "notes": "1/4 cc straws, 1 level bulk"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "5_per_cane",
+          "count": 95,
+          "notes": "1.2 & 2.0 ml vials, 5 per cane"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "6_per_cane",
+          "count": 102,
+          "notes": "1.2 & 2.0 ml vials, 6 per cane"
+        }
+      ],
       "supersededBy": null,
       "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
+      "sourceUrl": null,
+      "catalogVersion": "ML-000044 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Updated product data added in REV. C."
+      "notes": "Next generation redesign with BEND DON'T BREAK technology and Vapor Shield Technology. Hold time improved from 13 days to 19 days. Weight +/-5% typical. Protective Shipping Container Part No. 20750409.\nNext Generation model (new). BEND DON'T BREAK Technology, Vapor Shield Protection, Enhanced Neck Ring & Integrated Locking Tab. 1 canister. Hold time improved from 13 to 19 days vs Legacy. IATA Exempt (Special Provision A152).\nISTA certified: 3A. Updated product data per REV. AC design change.\nISTA certified: 3A. 5% variance in actual weight is typical. New product data added in REV. C.\nISTA certified: 3A. Updated product data added in REV. C."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5433,10 +4382,10 @@
       "supersededBy": "SC 4/3V",
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Legacy variant of SC 4/3V."
+      "notes": "ISTA certified: 3A. Legacy variant of SC 4/3V.\nISTA certified: 3A. 5% variance in actual weight is typical."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5449,20 +4398,64 @@
         "weight_empty_kg": 5.7,
         "weight_vapor_charged_kg": 9.3,
         "vapor_hold_time_days": 26,
-        "static_evaporation_rate_l_per_day": 0.19
+        "static_evaporation_rate_l_per_day": 0.19,
+        "ln2_capacity_l": 4.5,
+        "neck_opening_mm": 51,
+        "overall_height_mm": 498,
+        "outer_diameter_mm": 227,
+        "canister_height_mm": 279,
+        "canister_diameter_mm": 46,
+        "weight_full_kg": 10.5,
+        "canister_count": 1
       },
-      "capacities": [],
+      "capacities": [
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "10_per_cane",
+          "count": 120,
+          "notes": "1/2 cc straws, 10 per cane, 1 canister"
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "1_level_bulk",
+          "count": 210,
+          "notes": "1/2 cc straws, 1 level bulk"
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.25,
+          "configuration": "1_level_bulk",
+          "count": 452,
+          "notes": "1/4 cc straws, 1 level bulk"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "5_per_cane",
+          "count": 40,
+          "notes": "1.2 & 2.0 ml vials, 5 per cane"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "6_per_cane",
+          "count": 48,
+          "notes": "1.2 & 2.0 ml vials, 6 per cane"
+        }
+      ],
       "supersededBy": null,
       "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
+      "sourceUrl": null,
+      "catalogVersion": "ML-000044 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Updated product data added in REV. C."
+      "notes": "Next generation redesign with BEND DON'T BREAK technology and Vapor Shield Technology. Hold time improved from 21 days to 26 days. Weight +/-5% typical. Protective Shipping Container Part No. 20750409. Consistency check: 4.5 L / 0.19 L/day ≈ 23.7 days stated hold is 26 days — within ~10% of spec sheet note that 'Hold Time overrides NER specifications'.\nNext Generation model (new). BEND DON'T BREAK Technology, Vapor Shield Protection, Enhanced Neck Ring & Integrated Locking Tab. 1 canister. Hold time improved from 21 to 26 days vs Legacy. IATA Exempt (Special Provision A152).\nISTA certified: 3A. Updated product data per REV. AC design change.\nISTA certified: 3A. 5% variance in actual weight is typical. New product data added in REV. C.\nISTA certified: 3A. Updated product data added in REV. C."
     },
     {
       "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
+      "manufacturerInput": "MVE",
       "model": "XC 30/12V",
       "categories": [
         "dewar_vapor_shipper"
@@ -5471,16 +4464,45 @@
         "weight_empty_kg": 20,
         "weight_vapor_charged_kg": 34,
         "vapor_hold_time_days": 82,
-        "static_evaporation_rate_l_per_day": 0.22
+        "static_evaporation_rate_l_per_day": 0.22,
+        "ln2_capacity_l": 18,
+        "neck_opening_mm": 51,
+        "overall_height_mm": 617,
+        "outer_diameter_mm": 432,
+        "canister_height_mm": 279,
+        "canister_diameter_mm": 50,
+        "weight_full_kg": 37.2
       },
-      "capacities": [],
+      "capacities": [
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "1_level_bulk",
+          "count": 312,
+          "notes": "1/2 cc straws bulk 1 level"
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.25,
+          "configuration": "1_level_bulk",
+          "count": 660,
+          "notes": "1/4 cc straws bulk 1 level"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "6_per_cane",
+          "count": 500,
+          "notes": "1.2 & 2.0 mL vials 6/cane"
+        }
+      ],
       "supersededBy": null,
       "sourceType": "catalog_import",
-      "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
+      "sourceUrl": null,
+      "catalogVersion": "ML-000050 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Hold time × NER = 82 × 0.22 = 18.04 L; (34−20)/0.8083 ≈ 17.3 L — consistent within 5%."
+      "notes": "1 canister. IATA Exempt (Special Provision A152). ⚠️ Consistency check: 18 L / 0.22 L/day ≈ 82 days hold time — consistent.\nISTA certified: 3A. Largest hold time in the table at 82 days.\nISTA certified: 3A. 5% variance in actual weight is typical.\nISTA certified: 3A. Hold time × NER = 82 × 0.22 = 18.04 L; (34−20)/0.8083 ≈ 17.3 L — consistent within 5%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5499,10 +4521,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3B per English section 1; 3A per sections 2–7 (SI). Possible document inconsistency between sections — reviewer should verify. Hold time × NER = 30 × 0.79 = 23.7 L; (60.0−32.1)/0.8083 ≈ 34.5 L — discrepancy exceeds 30%; flag for review."
+      "notes": "ISTA certified: 3B per English section 1 table; 3A per SI sections 2–7. Discrepancy noted between document sections — section 1 (imperial) shows 3B, SI and other language sections show 3A. Flagged for reviewer.\nISTA certified: 3B (section 1 English) / 3A (section 2 SI English and other language sections). Discrepancy in ISTA certification between table instances (3B vs 3A). 5% variance in actual weight is typical.\nISTA certified: 3B per English section 1; 3A per sections 2–7 (SI). Possible document inconsistency between sections — reviewer should verify. Hold time × NER = 30 × 0.79 = 23.7 L; (60.0−32.1)/0.8083 ≈ 34.5 L — discrepancy exceeds 30%; flag for review."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5521,10 +4543,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Hold time × NER = 10 × 0.85 = 8.5 L; (17.3−11.6)/0.8083 ≈ 7.05 L — within ~20%."
+      "notes": "ISTA certified: 3A.\nISTA certified: 3A. 5% variance in actual weight is typical.\nISTA certified: 3A. Hold time × NER = 10 × 0.85 = 8.5 L; (17.3−11.6)/0.8083 ≈ 7.05 L — within ~20%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5543,10 +4565,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Hold time × NER = 14 × 0.70 = 9.8 L; (22.1−14.6)/0.8083 ≈ 9.28 L — within ~6%."
+      "notes": "ISTA certified: 3A. IATA-compliant variant.\nISTA certified: 3A. 5% variance in actual weight is typical.\nISTA certified: 3A. Hold time × NER = 14 × 0.70 = 9.8 L; (22.1−14.6)/0.8083 ≈ 9.28 L — within ~6%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5565,10 +4587,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3B. Hold time × NER = 15 × 0.79 = 11.85 L; (43.1−29.5)/0.8083 ≈ 16.83 L — discrepancy ~42%; flag for review."
+      "notes": "ISTA certified: 3B.\nISTA certified: 3B. 5% variance in actual weight is typical.\nISTA certified: 3B. Hold time × NER = 15 × 0.79 = 11.85 L; (43.1−29.5)/0.8083 ≈ 16.83 L — discrepancy ~42%; flag for review."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5587,10 +4609,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 17 × 0.17 = 2.89 L; (8.8−6.4)/0.8083 ≈ 2.97 L — consistent within 3%."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 17 × 0.17 = 2.89 L; (8.8−6.4)/0.8083 ≈ 2.97 L — consistent within 3%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5609,10 +4631,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Center canister required. Hold time × NER = 18 × 0.35 = 6.3 L; (15.8−10.7)/0.8083 ≈ 6.31 L — consistent within 1%."
+      "notes": "ISTA certified: N. Center canister required. 5% variance in actual weight is typical.\nISTA certified: N. Center canister required. Hold time × NER = 18 × 0.35 = 6.3 L; (15.8−10.7)/0.8083 ≈ 6.31 L — consistent within 1%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5631,10 +4653,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 21 × 0.10 = 2.1 L; (13.7−10.4)/0.8083 ≈ 4.08 L — discrepancy ~94%; flag for review."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 21 × 0.10 = 2.1 L; (13.7−10.4)/0.8083 ≈ 4.08 L — discrepancy ~94%; flag for review."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5653,10 +4675,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 21 × 0.35 = 7.35 L; (21.2−14.6)/0.8083 ≈ 8.16 L — within ~11%."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 21 × 0.35 = 7.35 L; (21.2−14.6)/0.8083 ≈ 8.16 L — within ~11%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5675,10 +4697,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 21 × 0.20 = 4.2 L; (21.7−15.8)/0.8083 ≈ 7.30 L — discrepancy ~74%; flag for review."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 21 × 0.20 = 4.2 L; (21.7−15.8)/0.8083 ≈ 7.30 L — discrepancy ~74%; flag for review."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5697,10 +4719,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 21 × 0.40 = 8.4 L; (24.7−18.5)/0.8083 ≈ 7.67 L — within ~9%."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 21 × 0.40 = 8.4 L; (24.7−18.5)/0.8083 ≈ 7.67 L — within ~9%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5719,10 +4741,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 25 × 0.14 = 3.5 L; (8.1−5.3)/0.8083 ≈ 3.46 L — within ~1%."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 25 × 0.14 = 3.5 L; (8.1−5.3)/0.8083 ≈ 3.46 L — within ~1%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5741,10 +4763,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: 3A. Hold time × NER = 36 × 0.22 = 7.92 L; (15.6−9.2)/0.8083 ≈ 7.92 L — exact match."
+      "notes": "ISTA certified: 3A.\nISTA certified: 3A. 5% variance in actual weight is typical.\nISTA certified: 3A. Hold time × NER = 36 × 0.22 = 7.92 L; (15.6−9.2)/0.8083 ≈ 7.92 L — exact match."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5763,10 +4785,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 23 × 0.35 = 8.05 L; (18.6−12.2)/0.8083 ≈ 7.92 L — within ~2%."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 23 × 0.35 = 8.05 L; (18.6−12.2)/0.8083 ≈ 7.92 L — within ~2%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -5785,10 +4807,10 @@
       "supersededBy": null,
       "sourceType": "catalog_import",
       "sourceUrl": "https://mvebio.com/resources/",
-      "catalogVersion": "21838388 REV. C",
-      "lastVerifiedAt": null,
+      "catalogVersion": "11562640 REV. AC",
+      "lastVerifiedAt": "2025-06",
       "confidence": "reviewed",
-      "notes": "ISTA certified: N. Hold time × NER = 23 × 0.35 = 8.05 L; (22.9−16.5)/0.8083 ≈ 7.92 L — within ~2%."
+      "notes": "ISTA certified: N.\nISTA certified: N. 5% variance in actual weight is typical.\nISTA certified: N. Hold time × NER = 23 × 0.35 = 8.05 L; (22.9−16.5)/0.8083 ≈ 7.92 L — within ~2%."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6254,7 +5276,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "SC Series Compact Aluminum Dewar. 5-year vacuum warranty, 2-year parts warranty. Static evaporation rate and hold time are nominal."
+      "notes": "SC Series Compact Aluminum Dewar. 5-year vacuum warranty, 2-year parts warranty. Static evaporation rate and hold time are nominal.\nPart of the MVE SC Series Compact Aluminum Dewar line. 5-year vacuum warranty, 2-year parts warranty. Conforms to MDD 93/42/EEC."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6305,7 +5327,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "SC Series Compact Aluminum Dewar. 5-year vacuum warranty, 2-year parts warranty. Static evaporation rate and hold time are nominal."
+      "notes": "SC Series Compact Aluminum Dewar. 5-year vacuum warranty, 2-year parts warranty. Static evaporation rate and hold time are nominal.\nPart of the MVE SC Series Compact Aluminum Dewar line. 5-year vacuum warranty, 2-year parts warranty. Conforms to MDD 93/42/EEC."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6356,7 +5378,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "SC Series Compact Aluminum Dewar. Includes Bend Don't Break™ durability technology. Industry gold standard. 5-year vacuum warranty, 2-year parts warranty. Static evaporation rate and hold time are nominal. Note: weight_full_kg sourced from document as '58.99 (26.7)' — the lb value 58.99 appears anomalously low vs other models; may be a typo for 58.99 lb = 26.7 kg which is consistent."
+      "notes": "SC Series Compact Aluminum Dewar. Includes Bend Don't Break™ durability technology. Industry gold standard. 5-year vacuum warranty, 2-year parts warranty. Static evaporation rate and hold time are nominal. Note: weight_full_kg sourced from document as '58.99 (26.7)' — the lb value 58.99 appears anomalously low vs other models; may be a typo for 58.99 lb = 26.7 kg which is consistent.\nPart of the MVE SC Series Compact Aluminum Dewar line. Includes Bend Don't Break™ durability technology. 5-year vacuum warranty, 2-year parts warranty. Conforms to MDD 93/42/EEC. Weight full value in document appears to show '58.99 (26.7)' — lb value (58.99 lb ≈ 26.7 kg) used for weight_full_kg. Note: static_hold_time check: 20.5 L / 0.085 L/day ≈ 241 days vs stated 150 days — possible discrepancy; flagged for reviewer."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6465,7 +5487,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "XC 20 Signature includes Bend Don't Break™ & Semen Safe™ durability features. Canister height listed as 11/5 in (279/127 mm) indicating dual canister height options."
+      "notes": "XC 20 Signature includes Bend Don't Break™ & Semen Safe™ durability features. Canister height listed as 11/5 in (279/127 mm) indicating dual canister height options.\nXC 20 Signature includes Bend Don't Break™ & Semen Safe™ durability features. Canister height listed as 11/5 (279/127 mm) indicating two canister height options. Canister diameter 1.65 in (41.9 mm). Hold time check: 20.5 L / 0.090 L/day ≈ 228 days total capacity; published working duration 142 days — consistent with working-volume basis."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6567,7 +5589,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": null
+      "notes": "Hold time check: 32.0 L / 0.35 L/day ≈ 91 days total capacity; published working duration 57 days — consistent with working-volume basis."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6618,7 +5640,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": null
+      "notes": "Hold time check: 33.4 L / 0.14 L/day ≈ 239 days total capacity; published working duration 154 days — consistent with working-volume basis."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6669,7 +5691,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "No vial capacity published for this model."
+      "notes": "No vial capacity published for this model.\nHold time check: 34.8 L / 0.18 L/day ≈ 193 days total capacity; published working duration 123 days — consistent with working-volume basis. No vial capacity listed for this model."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6687,9 +5709,9 @@
         "outer_diameter_mm": 508,
         "canister_height_mm": 279,
         "canister_diameter_mm": 102,
+        "canister_count": 6,
         "weight_empty_kg": 19,
-        "weight_full_kg": 54.6,
-        "canister_count": 6
+        "weight_full_kg": 54.6
       },
       "capacities": [
         {
@@ -6720,7 +5742,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "No vial capacity published for this model."
+      "notes": "No vial capacity published for this model.\nHold time check: 47.4 L / 0.39 L/day ≈ 122 days total capacity; published working duration 76 days — consistent with working-volume basis."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6738,9 +5760,9 @@
         "outer_diameter_mm": 508,
         "canister_height_mm": 279,
         "canister_diameter_mm": 71,
+        "canister_count": 10,
         "weight_empty_kg": 19,
-        "weight_full_kg": 54.6,
-        "canister_count": 10
+        "weight_full_kg": 54.6
       },
       "capacities": [
         {
@@ -6771,7 +5793,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "No vial capacity published for this model. Same LN2 capacity and evap rate as XC 47/11-6 but with 10 canisters of smaller diameter (71 mm vs 102 mm)."
+      "notes": "No vial capacity published for this model. Same LN2 capacity and evap rate as XC 47/11-6 but with 10 canisters of smaller diameter (71 mm vs 102 mm).\nHold time check: 47.4 L / 0.39 L/day ≈ 122 days total capacity; published working duration 76 days — consistent with working-volume basis."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6799,7 +5821,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (4 / 0.19 ≈ 21.05 days). Document does not publish hold time directly. Lab Series designed for liquid storage only, not vapor shipping."
+      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (4 / 0.19 ≈ 21.05 days). Document does not publish hold time directly. Lab Series designed for liquid storage only, not vapor shipping.\nStatic hold time calculated as 4L / 0.19 L/day ≈ 21 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6827,7 +5849,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (5 / 0.15 ≈ 33.33 days). Document does not publish hold time directly."
+      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (5 / 0.15 ≈ 33.33 days). Document does not publish hold time directly.\nStatic hold time calculated as 5L / 0.15 L/day ≈ 33 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6855,7 +5877,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (10 / 0.18 ≈ 55.56 days). Document does not publish hold time directly."
+      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (10 / 0.18 ≈ 55.56 days). Document does not publish hold time directly.\nStatic hold time calculated as 10L / 0.18 L/day ≈ 56 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6883,7 +5905,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (20 / 0.18 ≈ 111.11 days). Document does not publish hold time directly."
+      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (20 / 0.18 ≈ 111.11 days). Document does not publish hold time directly.\nStatic hold time calculated as 20L / 0.18 L/day ≈ 111 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6911,7 +5933,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Model named LAB 30 but LN2 capacity is published as 32 L. static_hold_time_days_total_capacity computed as 32 / 0.22 ≈ 145.45 days. Document does not publish hold time directly."
+      "notes": "Model named LAB 30 but LN2 capacity is published as 32 L. static_hold_time_days_total_capacity computed as 32 / 0.22 ≈ 145.45 days. Document does not publish hold time directly.\nLN2 capacity listed as 32L despite model name 'LAB 30'. Static hold time calculated as 32L / 0.22 L/day ≈ 145 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -6939,51 +5961,7 @@
       "catalogVersion": "ML-000020 Rev 0",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (50 / 0.49 ≈ 102.04 days). Document does not publish hold time directly. Category hint suggested dewar_vapor_shipper and freezer_mechanical_ult, but spec sheet clearly states 'Lab Series is designed for liquid storage' — these are static LN2 dewars, not vapor shippers or mechanical freezers. Categories assigned as dewar_static_small/large accordingly."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
-      "model": "SC 2/1V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 1.5,
-        "vapor_hold_time_days": 8,
-        "static_evaporation_rate_l_per_day": 0.19,
-        "neck_opening_mm": 35,
-        "overall_height_mm": 343,
-        "outer_diameter_mm": 184,
-        "canister_height_mm": 127,
-        "canister_diameter_mm": 31,
-        "weight_empty_kg": 2.7,
-        "weight_vapor_charged_kg": 3.6,
-        "weight_full_kg": 4.1
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 88,
-          "notes": "1/2 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 182,
-          "notes": "1/4 cc straws bulk 1 level"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000050 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "1 canister. No 10/cane straw data published for this model. IATA Exempt (Special Provision A152)."
+      "notes": "static_hold_time_days_total_capacity computed as ln2_capacity_l / static_evaporation_rate_l_per_day (50 / 0.49 ≈ 102.04 days). Document does not publish hold time directly. Category hint suggested dewar_vapor_shipper and freezer_mechanical_ult, but spec sheet clearly states 'Lab Series is designed for liquid storage' — these are static LN2 dewars, not vapor shippers or mechanical freezers. Categories assigned as dewar_static_small/large accordingly.\nStatic hold time calculated as 50L / 0.49 L/day ≈ 102 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -7053,71 +6031,6 @@
     {
       "manufacturer": "MVE Biological Solutions",
       "manufacturerInput": "MVE",
-      "model": "SC 4/2V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 4.1,
-        "vapor_hold_time_days": 19,
-        "static_evaporation_rate_l_per_day": 0.23,
-        "neck_opening_mm": 70,
-        "overall_height_mm": 498,
-        "outer_diameter_mm": 227,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 67,
-        "weight_empty_kg": 5.6,
-        "weight_vapor_charged_kg": 8.9,
-        "weight_full_kg": 10.6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 280,
-          "notes": "1/2 cc straws 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 440,
-          "notes": "1/2 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 938,
-          "notes": "1/4 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 95,
-          "notes": "1.2 & 2.0 mL vials 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 102,
-          "notes": "1.2 & 2.0 mL vials 6/cane"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000050 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Next Generation model (new). BEND DON'T BREAK Technology, Vapor Shield Protection, Enhanced Neck Ring & Integrated Locking Tab. 1 canister. Hold time improved from 13 to 19 days vs Legacy. IATA Exempt (Special Provision A152)."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
       "model": "SC 4/3V Legacy",
       "categories": [
         "dewar_vapor_shipper"
@@ -7179,122 +6092,6 @@
       "lastVerifiedAt": null,
       "confidence": "reviewed",
       "notes": "Legacy model. 1 canister. IATA Exempt (Special Provision A152)."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
-      "model": "SC 4/3V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 4.5,
-        "vapor_hold_time_days": 26,
-        "static_evaporation_rate_l_per_day": 0.19,
-        "neck_opening_mm": 51,
-        "overall_height_mm": 498,
-        "outer_diameter_mm": 227,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 46,
-        "weight_empty_kg": 5.7,
-        "weight_vapor_charged_kg": 9.3,
-        "weight_full_kg": 10.5
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 120,
-          "notes": "1/2 cc straws 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 210,
-          "notes": "1/2 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 452,
-          "notes": "1/4 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 40,
-          "notes": "1.2 & 2.0 mL vials 5/cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 48,
-          "notes": "1.2 & 2.0 mL vials 6/cane"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000050 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Next Generation model (new). BEND DON'T BREAK Technology, Vapor Shield Protection, Enhanced Neck Ring & Integrated Locking Tab. 1 canister. Hold time improved from 21 to 26 days vs Legacy. IATA Exempt (Special Provision A152)."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
-      "model": "XC 30/12V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 18,
-        "vapor_hold_time_days": 82,
-        "static_evaporation_rate_l_per_day": 0.22,
-        "neck_opening_mm": 51,
-        "overall_height_mm": 617,
-        "outer_diameter_mm": 432,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 50,
-        "weight_empty_kg": 20,
-        "weight_vapor_charged_kg": 34,
-        "weight_full_kg": 37.2
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 312,
-          "notes": "1/2 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 660,
-          "notes": "1/4 cc straws bulk 1 level"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 500,
-          "notes": "1.2 & 2.0 mL vials 6/cane"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000050 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "1 canister. IATA Exempt (Special Provision A152). ⚠️ Consistency check: 18 L / 0.22 L/day ≈ 82 days hold time — consistent."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -7491,306 +6288,6 @@
       "lastVerifiedAt": null,
       "confidence": "reviewed",
       "notes": "Spectrum 3 has no canister-based straw or vial capacity listed (shown as '-'). Only 1/4 cc 1 Level Bulk is available. Working Duration (17 days) is based on working volume under normal operating conditions."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/2V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 4.1,
-        "vapor_hold_time_days": 19,
-        "static_evaporation_rate_l_per_day": 0.23,
-        "neck_opening_mm": 70,
-        "overall_height_mm": 498,
-        "outer_diameter_mm": 227,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 67,
-        "weight_empty_kg": 5.6,
-        "weight_vapor_charged_kg": 8.9,
-        "weight_full_kg": 10.6,
-        "canister_count": 1
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 280,
-          "notes": "1/2 cc straws, 10 per cane, 1 canister"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 440,
-          "notes": "1/2 cc straws, 1 level bulk"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 938,
-          "notes": "1/4 cc straws, 1 level bulk"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 95,
-          "notes": "1.2 & 2.0 ml vials, 5 per cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 102,
-          "notes": "1.2 & 2.0 ml vials, 6 per cane"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000044 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Next generation redesign with BEND DON'T BREAK technology and Vapor Shield Technology. Hold time improved from 13 days to 19 days. Weight +/-5% typical. Protective Shipping Container Part No. 20750409."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "SC 4/3V",
-      "categories": [
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "ln2_capacity_l": 4.5,
-        "vapor_hold_time_days": 26,
-        "static_evaporation_rate_l_per_day": 0.19,
-        "neck_opening_mm": 51,
-        "overall_height_mm": 498,
-        "outer_diameter_mm": 227,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 46,
-        "weight_empty_kg": 5.7,
-        "weight_vapor_charged_kg": 9.3,
-        "weight_full_kg": 10.5,
-        "canister_count": 1
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 120,
-          "notes": "1/2 cc straws, 10 per cane, 1 canister"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 210,
-          "notes": "1/2 cc straws, 1 level bulk"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 452,
-          "notes": "1/4 cc straws, 1 level bulk"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 40,
-          "notes": "1.2 & 2.0 ml vials, 5 per cane"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "6_per_cane",
-          "count": 48,
-          "notes": "1.2 & 2.0 ml vials, 6 per cane"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000044 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Next generation redesign with BEND DON'T BREAK technology and Vapor Shield Technology. Hold time improved from 21 days to 26 days. Weight +/-5% typical. Protective Shipping Container Part No. 20750409. Consistency check: 4.5 L / 0.19 L/day ≈ 23.7 days stated hold is 26 days — within ~10% of spec sheet note that 'Hold Time overrides NER specifications'."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "LAB 4",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 4,
-        "static_evaporation_rate_l_per_day": 0.19,
-        "static_hold_time_days_total_capacity": 21.05,
-        "neck_opening_mm": 35,
-        "usable_height_mm": 198,
-        "overall_height_mm": 426,
-        "outer_diameter_mm": 185,
-        "internal_diameter_mm": 139,
-        "weight_empty_kg": 2.7,
-        "weight_full_kg": 6
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Static hold time calculated as 4L / 0.19 L/day ≈ 21 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "LAB 5",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 5,
-        "static_evaporation_rate_l_per_day": 0.15,
-        "static_hold_time_days_total_capacity": 33.33,
-        "neck_opening_mm": 56,
-        "usable_height_mm": 266,
-        "overall_height_mm": 462,
-        "outer_diameter_mm": 222,
-        "internal_diameter_mm": 165,
-        "weight_empty_kg": 4,
-        "weight_full_kg": 8
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Static hold time calculated as 5L / 0.15 L/day ≈ 33 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "LAB 10",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 10,
-        "static_evaporation_rate_l_per_day": 0.18,
-        "static_hold_time_days_total_capacity": 55.56,
-        "neck_opening_mm": 56,
-        "usable_height_mm": 343,
-        "overall_height_mm": 546,
-        "outer_diameter_mm": 260,
-        "internal_diameter_mm": 210,
-        "weight_empty_kg": 5.4,
-        "weight_full_kg": 14
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Static hold time calculated as 10L / 0.18 L/day ≈ 56 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "LAB 20",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 20,
-        "static_evaporation_rate_l_per_day": 0.18,
-        "static_hold_time_days_total_capacity": 111.11,
-        "neck_opening_mm": 56,
-        "usable_height_mm": 348,
-        "overall_height_mm": 622,
-        "outer_diameter_mm": 368,
-        "internal_diameter_mm": 289,
-        "weight_empty_kg": 9,
-        "weight_full_kg": 25
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Static hold time calculated as 20L / 0.18 L/day ≈ 111 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "LAB 30",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 32,
-        "static_evaporation_rate_l_per_day": 0.22,
-        "static_hold_time_days_total_capacity": 145.45,
-        "neck_opening_mm": 64,
-        "usable_height_mm": 378,
-        "overall_height_mm": 610,
-        "outer_diameter_mm": 432,
-        "internal_diameter_mm": 356,
-        "weight_empty_kg": 11.4,
-        "weight_full_kg": 37.2
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "LN2 capacity listed as 32L despite model name 'LAB 30'. Static hold time calculated as 32L / 0.22 L/day ≈ 145 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "LAB 50",
-      "categories": [
-        "dewar_static_large"
-      ],
-      "specs": {
-        "ln2_capacity_l": 50,
-        "static_evaporation_rate_l_per_day": 0.49,
-        "static_hold_time_days_total_capacity": 102.04,
-        "neck_opening_mm": 64,
-        "usable_height_mm": 559,
-        "overall_height_mm": 775,
-        "outer_diameter_mm": 432,
-        "internal_diameter_mm": 356,
-        "weight_empty_kg": 14,
-        "weight_full_kg": 54.4
-      },
-      "capacities": [],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Static hold time calculated as 50L / 0.49 L/day ≈ 102 days. Designed for liquid storage only; no sample storage configurations published in this spec sheet."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -8468,261 +6965,6 @@
     {
       "manufacturer": "MVE Biological Solutions",
       "manufacturerInput": "MVE Biological Solutions",
-      "model": "MVE 815P-190",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "ln2_capacity_l": 360,
-        "working_volume_l": 62,
-        "neck_opening_mm": 318,
-        "usable_height_mm": 673,
-        "internal_diameter_mm": 731,
-        "overall_height_mm": 1478,
-        "weight_empty_kg": 218,
-        "weight_full_kg": 526,
-        "autofill_capable": true,
-        "controller_model": "CryoVerse™ Connect Controller",
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "internally_threaded",
-          "count": 15600,
-          "notes": "1.2 & 2 ml internally threaded vials combined count"
-        },
-        {
-          "sampleType": "rack",
-          "configuration": "large_rack_100_cell_box",
-          "count": 12,
-          "notes": "Large racks, 100-cell boxes; 12 shelves per rack"
-        },
-        {
-          "sampleType": "rack",
-          "configuration": "mini_rack_25_cell_box",
-          "count": 4,
-          "notes": "Mini racks, 25-cell boxes"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_Medsep_25ml_62_per_frame",
-          "count": 1224,
-          "notes": "791 OS/U Medsep (25 ml); 62 bags/frame, 4 frames; between usable height and clearance for some models"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_61_per_frame",
-          "count": 768,
-          "notes": "4R9951 (50 ml); 61 bags/frame, 2 frames... actually 61*? — source: 768/2=384? — see raw: 768 bags, 61/frame, 2 frames; note: 61*2=122≠768; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_41_per_frame",
-          "count": 416,
-          "notes": "4R9953 (250 ml); 41 bags/frame, 4 frames; note: 41*4=164≠416; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_47_per_frame",
-          "count": 304,
-          "notes": "4R9955 (500 ml); 47 bags/frame, 4 frames; note: 47*4=188≠304; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_45_per_frame",
-          "count": 236,
-          "notes": "DF200 (200 ml); 45 bags/frame, 4 frames; note: 45*4=180≠236; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_56_per_frame",
-          "count": 256,
-          "notes": "DF700 (700 ml); 56 bags/frame, 4 frames; using raw values"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000068 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "LN2 capacity at vapor platform: 62 L est. LN2 capacity w/o inventory: 360 L est. Overall height includes autofill. Liftover height 942 mm. Door width requirement: 813 mm (843 mm with handles). Temperature uniformity -190°C ±5°C at top box when loaded."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "MVE 1536P-190",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "ln2_capacity_l": 756,
-        "working_volume_l": 133,
-        "neck_opening_mm": 445,
-        "usable_height_mm": 730,
-        "internal_diameter_mm": 978,
-        "overall_height_mm": 1556,
-        "weight_empty_kg": 313,
-        "weight_full_kg": 924,
-        "autofill_capable": true,
-        "controller_model": "CryoVerse™ Connect Controller",
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "internally_threaded",
-          "count": 36400,
-          "notes": "1.2 & 2 ml internally threaded vials combined count"
-        },
-        {
-          "sampleType": "rack",
-          "configuration": "large_rack_100_cell_box",
-          "count": 24,
-          "notes": "Large racks, 100-cell boxes; 13 shelves per rack"
-        },
-        {
-          "sampleType": "rack",
-          "configuration": "mini_rack_25_cell_box",
-          "count": 16,
-          "notes": "Mini racks, 25-cell boxes"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_Medsep_25ml_8_per_frame",
-          "count": 3320,
-          "notes": "791 OS/U Medsep (25 ml); 8 bags/frame, 15 frames; 8*15=120≠3320; flagged discrepancy; using raw values; † between usable height and clearance"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_72_per_frame",
-          "count": 1736,
-          "notes": "4R9951 (50 ml); 72 bags/frame, 24 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_42_per_frame",
-          "count": 1248,
-          "notes": "4R9953 (250 ml); 42 bags/frame, 0 frames... source unclear; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_41_per_frame",
-          "count": 840,
-          "notes": "4R9955 (500 ml); 41 bags/frame, 5 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_41_per_frame",
-          "count": 964,
-          "notes": "DF200 (200 ml); 41 bags/frame, 2 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_46_per_frame",
-          "count": 264,
-          "notes": "DF700 (700 ml); 46 bags/frame, 6 frames; using raw values"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000068 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "LN2 capacity at vapor platform: 133 L est. LN2 capacity w/o inventory: 756 L est. Overall height includes autofill. Liftover height 995 mm. Door width requirement: 1067 mm (201 mm with handles — likely a document error). Temperature uniformity -190°C ±5°C at top box when loaded."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "MVE 1542R-190",
-      "categories": [
-        "freezer_isothermal_ln2"
-      ],
-      "specs": {
-        "ln2_capacity_l": 797,
-        "working_volume_l": 133,
-        "neck_opening_mm": 445,
-        "usable_height_mm": 781,
-        "internal_diameter_mm": 983,
-        "overall_height_mm": 1607,
-        "weight_empty_kg": 327,
-        "weight_full_kg": 971,
-        "autofill_capable": true,
-        "controller_model": "CryoVerse™ Connect Controller",
-        "temperature_uniformity_c": 5
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "internally_threaded",
-          "count": 42000,
-          "notes": "1.2 & 2 ml internally threaded vials combined count"
-        },
-        {
-          "sampleType": "rack",
-          "configuration": "large_rack_100_cell_box",
-          "count": 26,
-          "notes": "Large racks, 100-cell boxes; 14 shelves per rack"
-        },
-        {
-          "sampleType": "rack",
-          "configuration": "mini_rack_25_cell_box",
-          "count": 16,
-          "notes": "Mini racks, 25-cell boxes"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "791_OS_U_Medsep_25ml_8_per_frame",
-          "count": 3184,
-          "notes": "791 OS/U Medsep (25 ml); 8 bags/frame, 39 frames; using raw values; † between usable height and clearance"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9951_50ml_72_per_frame",
-          "count": 1687,
-          "notes": "4R9951 (50 ml); 72 bags/frame, 41 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9953_250ml_37_per_frame",
-          "count": 684,
-          "notes": "4R9953 (250 ml); 37 bags/frame, 19 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "4R9955_500ml_25_per_frame",
-          "count": 764,
-          "notes": "4R9955 (500 ml); 25 bags/frame, 57 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF200_200ml_48_per_frame",
-          "count": 1248,
-          "notes": "DF200 (200 ml); 48 bags/frame, 12 frames; using raw values"
-        },
-        {
-          "sampleType": "blood_bag",
-          "configuration": "DF700_700ml_30_per_frame",
-          "count": 305,
-          "notes": "DF700 (700 ml); 30 bags/frame, 12 frames; using raw values"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000068 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "LN2 capacity at vapor platform: 133 L est. LN2 capacity w/o inventory: 797 L est. Overall height includes autofill. Door width requirement: 1067 mm (201 mm with handles — likely a document error). Temperature uniformity -190°C ±5°C at top box when loaded. R-suffix indicates rack-style vessel."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
       "model": "MVE 1892P-190",
       "categories": [
         "freezer_isothermal_ln2"
@@ -9243,64 +7485,6 @@
         "vapor_hold_time_days": 11,
         "neck_opening_mm": 317.5,
         "usable_height_mm": 330.2,
-        "internal_diameter_mm": 731.9,
-        "overall_height_mm": 1132.1,
-        "outer_diameter_mm": 812.8,
-        "weight_empty_kg": 145,
-        "weight_full_kg": 310,
-        "weight_vapor_charged_kg": 195,
-        "canister_count": 71,
-        "autofill_capable": true
-      },
-      "capacities": [
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1,
-          "configuration": "71_suc1_canisters",
-          "count": 9798
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "71_suc1_canisters",
-          "count": 10224
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 2,
-          "configuration": "71_suc1_canisters",
-          "count": 5680
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "71_suc1_canisters",
-          "count": 22010
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000005 Rev 1",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "LN2 capacity in vapor storage mode is 62 L; vapor hold time is 11 days; liquid full hold time is 40 days. Liftover height is 34 13/16\" (884.3 mm). Neck opening 12.5\" converted to ~317.5 mm; usable internal height 13\" = 330.2 mm; inner diameter 28 13/16\" = ~731.9 mm; overall height 44 9/16\" = ~1132.1 mm; outside diameter 32\" = 812.8 mm. Compatible with SUC-1 rack systems. SUC-1 box layout: 23 canes per box, 138 vials per box. Marketed equivalence: 7× XC 47/11 = 1 HE 800 C. Check: 205 L capacity ÷ 5 L/day = 41 days (stated 40 days — within tolerance). autofill_capable inferred from 'advanced automated LN2 filling system' described in document."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "HE 800 C",
-      "categories": [
-        "dewar_static_large",
-        "dewar_vapor_shipper"
-      ],
-      "specs": {
-        "static_evaporation_rate_l_per_day": 5,
-        "ln2_capacity_l": 205,
-        "static_hold_time_days_total_capacity": 40,
-        "vapor_hold_time_days": 11,
-        "neck_opening_mm": 317.5,
-        "usable_height_mm": 330.2,
         "internal_diameter_mm": 731.3,
         "overall_height_mm": 1132.1,
         "outer_diameter_mm": 812.8,
@@ -9340,6 +7524,30 @@
           "configuration": "SUC-1_canisters",
           "count": 71,
           "notes": "SUC-1 rack system; C-1 cane layout in SUC-1 box, 23 canes per box, 138 vials per box"
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1,
+          "configuration": "71_suc1_canisters",
+          "count": 9798
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 1.2,
+          "configuration": "71_suc1_canisters",
+          "count": 10224
+        },
+        {
+          "sampleType": "vial",
+          "sampleSizeMl": 2,
+          "configuration": "71_suc1_canisters",
+          "count": 5680
+        },
+        {
+          "sampleType": "straw",
+          "sampleSizeCc": 0.5,
+          "configuration": "71_suc1_canisters",
+          "count": 22010
         }
       ],
       "supersededBy": null,
@@ -9348,357 +7556,7 @@
       "catalogVersion": "ML-000007 Rev 1",
       "lastVerifiedAt": null,
       "confidence": "reviewed",
-      "notes": "Dual liquid/vapor storage modes: LN2 capacity liquid-full is 205 L (hold time 40 days); LN2 capacity vapor storage is 62 L (hold time 11 days). Static NER 5 L/day. Liftover height 34 13/16 in (884.3 mm) noted in spec sheet but has no canonical key. Internal Diameter (Tray) listed as 28 13/16 in — same as inner diameter. Compatible with SUC-1 rack systems. Automated filling (autofill) mentioned. Operational capacity note: 7 XC 47/11 = 1 HE 800 C."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
-      "model": "SC 3/3",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 3.6,
-        "static_evaporation_rate_l_per_day": 0.13,
-        "static_hold_time_days_total_capacity": 17,
-        "neck_opening_mm": 55,
-        "overall_height_mm": 406,
-        "outer_diameter_mm": 222,
-        "canister_height_mm": 127,
-        "canister_diameter_mm": 41.9,
-        "weight_empty_kg": 3.6,
-        "weight_full_kg": 6.5,
-        "canister_count": 6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 440,
-          "notes": "1/2 cc straws, 1 level bulk"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Part of the MVE SC Series Compact Aluminum Dewar line. 5-year vacuum warranty, 2-year parts warranty. Conforms to MDD 93/42/EEC."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
-      "model": "SC 11/7",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 11,
-        "static_evaporation_rate_l_per_day": 0.16,
-        "static_hold_time_days_total_capacity": 43,
-        "neck_opening_mm": 55,
-        "overall_height_mm": 549,
-        "outer_diameter_mm": 260,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 41.9,
-        "weight_empty_kg": 7.7,
-        "weight_full_kg": 16.6,
-        "canister_count": 6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 660,
-          "notes": "1/2 cc straws, 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 879,
-          "notes": "1/2 cc straws, 1 level bulk"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 210,
-          "notes": "1/4 cc straws"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Part of the MVE SC Series Compact Aluminum Dewar line. 5-year vacuum warranty, 2-year parts warranty. Conforms to MDD 93/42/EEC."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE",
-      "model": "SC 20/20 Signature",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 20.5,
-        "static_evaporation_rate_l_per_day": 0.085,
-        "static_hold_time_days_total_capacity": 150,
-        "neck_opening_mm": 55,
-        "overall_height_mm": 660,
-        "outer_diameter_mm": 368,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 41.9,
-        "weight_empty_kg": 10.2,
-        "weight_full_kg": 26.7,
-        "canister_count": 6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 660,
-          "notes": "1/2 cc straws, 10/cane"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 879,
-          "notes": "1/2 cc straws, 1 level bulk"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.25,
-          "configuration": "1_level_bulk",
-          "count": 210,
-          "notes": "1/4 cc straws"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Part of the MVE SC Series Compact Aluminum Dewar line. Includes Bend Don't Break™ durability technology. 5-year vacuum warranty, 2-year parts warranty. Conforms to MDD 93/42/EEC. Weight full value in document appears to show '58.99 (26.7)' — lb value (58.99 lb ≈ 26.7 kg) used for weight_full_kg. Note: static_hold_time check: 20.5 L / 0.085 L/day ≈ 241 days vs stated 150 days — possible discrepancy; flagged for reviewer."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 20 Signature",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 20.5,
-        "static_evaporation_rate_l_per_day": 0.09,
-        "static_hold_time_days_total_capacity": 142,
-        "neck_opening_mm": 55.4,
-        "overall_height_mm": 660,
-        "outer_diameter_mm": 368,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 41.9,
-        "weight_empty_kg": 10,
-        "weight_full_kg": 26.5,
-        "canister_count": 6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 660,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 879,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 1680,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 210,
-          "notes": "6 canisters; also fits 2.0 ml vials"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "XC 20 Signature includes Bend Don't Break™ & Semen Safe™ durability features. Canister height listed as 11/5 (279/127 mm) indicating two canister height options. Canister diameter 1.65 in (41.9 mm). Hold time check: 20.5 L / 0.090 L/day ≈ 228 days total capacity; published working duration 142 days — consistent with working-volume basis."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 32/8",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 32,
-        "static_evaporation_rate_l_per_day": 0.35,
-        "static_hold_time_days_total_capacity": 57,
-        "neck_opening_mm": 97,
-        "overall_height_mm": 546,
-        "outer_diameter_mm": 464,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 67,
-        "weight_empty_kg": 13.6,
-        "weight_full_kg": 39.5,
-        "canister_count": 9
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 2520,
-          "notes": "9 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 3960,
-          "notes": "9 canisters"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 855,
-          "notes": "9 canisters; also fits 2.0 ml vials"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Hold time check: 32.0 L / 0.35 L/day ≈ 91 days total capacity; published working duration 57 days — consistent with working-volume basis."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 33/22",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 33.4,
-        "static_evaporation_rate_l_per_day": 0.14,
-        "static_hold_time_days_total_capacity": 154,
-        "neck_opening_mm": 70,
-        "overall_height_mm": 660,
-        "outer_diameter_mm": 464,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 56,
-        "weight_empty_kg": 15.4,
-        "weight_full_kg": 42.5,
-        "canister_count": 6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 1260,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 1764,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "vial",
-          "sampleSizeMl": 1.2,
-          "configuration": "5_per_cane",
-          "count": 360,
-          "notes": "6 canisters; also fits 2.0 ml vials"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Hold time check: 33.4 L / 0.14 L/day ≈ 239 days total capacity; published working duration 154 days — consistent with working-volume basis."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 34/18",
-      "categories": [
-        "dewar_static_small"
-      ],
-      "specs": {
-        "ln2_capacity_l": 34.8,
-        "static_evaporation_rate_l_per_day": 0.18,
-        "static_hold_time_days_total_capacity": 123,
-        "neck_opening_mm": 89,
-        "overall_height_mm": 675,
-        "outer_diameter_mm": 464,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 71,
-        "weight_empty_kg": 15.4,
-        "weight_full_kg": 43.5,
-        "canister_count": 6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 2100,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 3000,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 630,
-          "notes": "6 canisters"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Hold time check: 34.8 L / 0.18 L/day ≈ 193 days total capacity; published working duration 123 days — consistent with working-volume basis. No vial capacity listed for this model."
+      "notes": "Dual liquid/vapor storage modes: LN2 capacity liquid-full is 205 L (hold time 40 days); LN2 capacity vapor storage is 62 L (hold time 11 days). Static NER 5 L/day. Liftover height 34 13/16 in (884.3 mm) noted in spec sheet but has no canonical key. Internal Diameter (Tray) listed as 28 13/16 in — same as inner diameter. Compatible with SUC-1 rack systems. Automated filling (autofill) mentioned. Operational capacity note: 7 XC 47/11 = 1 HE 800 C.\nLN2 capacity in vapor storage mode is 62 L; vapor hold time is 11 days; liquid full hold time is 40 days. Liftover height is 34 13/16\" (884.3 mm). Neck opening 12.5\" converted to ~317.5 mm; usable internal height 13\" = 330.2 mm; inner diameter 28 13/16\" = ~731.9 mm; overall height 44 9/16\" = ~1132.1 mm; outside diameter 32\" = 812.8 mm. Compatible with SUC-1 rack systems. SUC-1 box layout: 23 canes per box, 138 vials per box. Marketed equivalence: 7× XC 47/11 = 1 HE 800 C. Check: 205 L capacity ÷ 5 L/day = 41 days (stated 40 days — within tolerance). autofill_capable inferred from 'advanced automated LN2 filling system' described in document."
     },
     {
       "manufacturer": "MVE Biological Solutions",
@@ -9734,108 +7592,6 @@
       "lastVerifiedAt": null,
       "confidence": "reviewed",
       "notes": "Square canister configuration (6SQ). No straw capacity listed. No canister height or canister diameter published for this model. Hold time check: 47.4 L / 0.39 L/day ≈ 122 days total capacity; published working duration 76 days — consistent with working-volume basis."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 47/11-6",
-      "categories": [
-        "dewar_static_large"
-      ],
-      "specs": {
-        "ln2_capacity_l": 47.4,
-        "static_evaporation_rate_l_per_day": 0.39,
-        "static_hold_time_days_total_capacity": 76,
-        "neck_opening_mm": 127,
-        "overall_height_mm": 673,
-        "outer_diameter_mm": 508,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 102,
-        "canister_count": 6,
-        "weight_empty_kg": 19,
-        "weight_full_kg": 54.6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 4500,
-          "notes": "6 canisters; published as 4,500+"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 6216,
-          "notes": "6 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 1320,
-          "notes": "6 canisters"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Hold time check: 47.4 L / 0.39 L/day ≈ 122 days total capacity; published working duration 76 days — consistent with working-volume basis."
-    },
-    {
-      "manufacturer": "MVE Biological Solutions",
-      "manufacturerInput": "MVE Biological Solutions",
-      "model": "XC 47/11-10",
-      "categories": [
-        "dewar_static_large"
-      ],
-      "specs": {
-        "ln2_capacity_l": 47.4,
-        "static_evaporation_rate_l_per_day": 0.39,
-        "static_hold_time_days_total_capacity": 76,
-        "neck_opening_mm": 127,
-        "overall_height_mm": 673,
-        "outer_diameter_mm": 508,
-        "canister_height_mm": 279,
-        "canister_diameter_mm": 71,
-        "canister_count": 10,
-        "weight_empty_kg": 19,
-        "weight_full_kg": 54.6
-      },
-      "capacities": [
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "10_per_cane",
-          "count": 3500,
-          "notes": "10 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "1_level_bulk",
-          "count": 5000,
-          "notes": "10 canisters"
-        },
-        {
-          "sampleType": "straw",
-          "sampleSizeCc": 0.5,
-          "configuration": "2_level_bulk",
-          "count": 1050,
-          "notes": "10 canisters"
-        }
-      ],
-      "supersededBy": null,
-      "sourceType": "catalog_import",
-      "sourceUrl": null,
-      "catalogVersion": "ML-000019 Rev 0",
-      "lastVerifiedAt": null,
-      "confidence": "reviewed",
-      "notes": "Hold time check: 47.4 L / 0.39 L/day ≈ 122 days total capacity; published working duration 76 days — consistent with working-volume basis."
     }
   ]
 }
